@@ -1,5 +1,9 @@
 $primary-color : #ff0000;
+$secondary-color : #00ff00;
+$tertiary-color : #0000ff;
 
 :export {
   primaryColor: $primary-color;
+  secondaryColor: $secondary-color;
+  tertiaryColor: $tertiary-color;
 }
